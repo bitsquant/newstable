@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\charting_library",
+    "\\components",
+    "\\components\\TVChartContainer",
+    "\\reducers",
+    "\\store"
+  ],
+  "SelectedNode": "\\components\\TVChartContainer\\customScripts.js",
+  "PreviewInSolutionExplorer": false
+}
